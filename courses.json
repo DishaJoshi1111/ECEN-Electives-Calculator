@@ -9,7 +9,6 @@
             {"courseNumber": "ECEN 453", "courseName": "Microwave Solid-State Circuits and Systems","credits": 4},
             {"courseNumber": "ECEN 454", "courseName": "Digital Integrated Circuit Design","credits": 3},
             {"courseNumber": "ECEN 457", "courseName": "Operational Amplifiers","credits": 4},
-            {"courseNumber": "ECEN 458", "courseName": "Active Filter Analysis and Design","credits": 4},
             {"courseNumber": "ECEN 471", "courseName": "Power Management Circuits and Systems","credits": 4},
             {"courseNumber": "ECEN 474", "courseName": "VLSI Circuit Design","credits": 4  }
         ]
@@ -84,7 +83,6 @@
             {"courseNumber": "ECEN 425", "courseName": "Radio Frequency and Microwave Engineering", "credits": 3},
             {"courseNumber": "ECEN 445", "courseName": "Applied Electromagnetic Theory", "credits": 3},
             {"courseNumber": "ECEN 451", "courseName": "Antenna Engineering", "credits": 3},
-            {"courseNumber": "ECEN 452", "courseName": "Ultra High Frequency Techniques", "credits": 3},
             {"courseNumber": "ECEN 453", "courseName": "Microwave Solid-State Circuits and Systems", "credits": 4},
             {"courseNumber": "ECEN 463", "courseName": "Magnetic Resonance Engineering", "credits": 3},
             {"courseNumber": "ECEN 480", "courseName": "RF and Microwave Wireless Systems", "credits": 3}
@@ -97,14 +95,12 @@
             {"courseNumber": "ECEN 410", "courseName": "Medical Imaging", "credits": 4},
             {"courseNumber": "ECEN 419", "courseName": "Genomic Signal Processing", "credits": 3},
             {"courseNumber": "ECEN 420", "courseName": "Linear Control Systems", "credits": 3},
-            {"courseNumber": "ECEN 422", "courseName": "Control Engineering and Design Methodology", "credits": 3},
             {"courseNumber": "ECEN 424", "courseName": "Fundamentals of Networking", "credits": 3},
             {"courseNumber": "ECEN 427", "courseName": "Machine Learning", "credits": 3},
             {"courseNumber": "ECEN 442", "courseName": "DSP Based Electromechanical Motion Control", "credits": 3},
             {"courseNumber": "ECEN 444", "courseName": "Digital Signal Processing", "credits": 4},
             {"courseNumber": "ECEN 446", "courseName": "Information Theory, Inference and Learning Algorithms", "credits": 3},
             {"courseNumber": "ECEN 447", "courseName": "Digital Image Processing", "credits": 4},
-            {"courseNumber": "ECEN 448", "courseName": "Real-Time Digital Signal Processing", "credits": 3},
             {"courseNumber": "ECEN 455", "courseName": "Digital Communications", "credits": 4}
         ]
     }
